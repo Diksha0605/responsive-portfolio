@@ -1,4 +1,4 @@
-# Responsive Portfolio Website
+# Portfolio Website
 
 ## ◽About the Project
 
