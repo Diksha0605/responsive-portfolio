@@ -1,8 +1,8 @@
 # Responsive Portfolio Website
 
-## 📌 About the Project
+## ◽About the Project
 
-This is my personal responsive portfolio website built from scratch using HTML, CSS, and JavaScript.
+This is my personal portfolio website built from scratch using HTML, CSS, and JavaScript.
 
 The purpose of this project is to showcase my skills, projects, and achievements while learning professional frontend development and Git/GitHub workflow.
 
@@ -18,7 +18,7 @@ The purpose of this project is to showcase my skills, projects, and achievements
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -28,6 +28,6 @@ The purpose of this project is to showcase my skills, projects, and achievements
 
 ---
 
-## 🚀 Project Status
+## Project Status
 
 🟢 Currently Under Development
