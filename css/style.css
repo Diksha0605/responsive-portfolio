@@ -1,4 +1,4 @@
-/**/  CSS Reset
+/*  CSS Reset */
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 
-/**/  Global Styles
+/* Global Styles */  
 
 body {
     font-family: Arial, sans-serif;
@@ -17,7 +17,7 @@ body {
 }
 
 
-/**/  Header
+/*   Header */
 
 header {
     display: flex;
@@ -28,7 +28,7 @@ header {
 }
 
 
-/*   Navigation */
+/* Navigation */
 
 nav {
     display: flex;
@@ -46,7 +46,7 @@ nav a:hover {
 }
 
 
-/*   Logo */
+/* Logo */
 
 header h1 {
     font-size: 2rem;
@@ -54,7 +54,7 @@ header h1 {
     font-weight: 700;
 }
 
-/*   Hero Section */
+/* Hero Section */
 
 #home {
     padding: 80px 50px;
