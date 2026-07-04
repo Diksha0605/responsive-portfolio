@@ -135,3 +135,102 @@ header h1 {
     object-fit: cover;
     border: 5px solid #0077cc;
 }
+
+/* About Section */
+
+#about {
+    padding: 80px 50px;
+}
+
+#about h2 {
+    font-size: 2.5rem;
+    color: #222;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#about p {
+    max-width: 800px;
+    margin-bottom: 20px;
+    line-height: 1.8;
+}
+
+#about h3 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: #0077cc;
+}
+
+#about ul {
+    margin-left: 25px;
+    line-height: 2;
+}
+
+/* About Content Layout */
+
+.about-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 60px;
+}
+
+.about-text {
+    flex: 2;
+}
+
+.about-details {
+    flex: 1;
+}
+
+/* Detail Cards */
+
+.detail-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.detail-card h3 {
+    color: #0077cc;
+    margin-bottom: 12px;
+}
+
+.detail-card ul {
+    padding-left: 20px;
+}
+
+.detail-card {
+    transition: transform 0.3s ease,
+                box-shadow 0.3s ease;
+}
+
+.detail-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+/* ===========================
+   About Text
+=========================== */
+
+.about-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 60px;
+}
+
+.about-text h3 {
+    font-size: 2rem;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.about-text p {
+    margin-bottom: 20px;
+    line-height: 1.8;
+    color: #555;
+}
